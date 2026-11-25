@@ -12,7 +12,7 @@ I start with a decision I want software to help me make. Then I work with AI to 
 
 - **[Ticket Watcher](https://github.com/Egrocket1/ticket-cadence)** — A local watcher for comparing ticket listings against seat-count, price and timing constraints.
 
-- **[Commercial Viewer](https://github.com/Egrocket1/commercial-viewer)** — An AI-assisted prototype for muting commercials during sports broadcasts. This excerpt from the Mac handoff demonstrates the audio decision policy.
+- **[Commercial Viewer](https://github.com/Egrocket1/commercial-viewer)** — A Windows application I built with AI assistance that detects commercial breaks during sports broadcasts and controls when the receiver mutes and restores sound.
 
 
 
